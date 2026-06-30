@@ -5,9 +5,13 @@ Sistema web para la gestión del programa de tutorías de la Universidad de la S
 Tecnologías utilizadas:
 
 HTML5
+
 CSS3
+
 JavaScript
+
 PHP 8
+
 Supabase (PostgreSQL)
 
 ---
