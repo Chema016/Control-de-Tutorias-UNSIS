@@ -18,7 +18,7 @@
  */
 
 // ============ DATOS DE SUPABASE (reemplaza con los tuyos) ============
-define('SUPABASE_URL', 'https://brkhrlxhdlytydknfawj.supabase.co');
+define('SUPABASE_URL', 'https://brkhrlxhdlytydknfawj.supabase.co'); 
 define('SUPABASE_SERVICE_KEY', 'sb_secret_2eCaqG45mcnc3ulmxQzUTQ_iEzGnjd9');
 define('SUPABASE_REST_URL', SUPABASE_URL . '/rest/v1');
 
