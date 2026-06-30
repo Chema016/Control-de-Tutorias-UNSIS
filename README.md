@@ -128,7 +128,9 @@ Registrar alertas para alumnos que presenten riesgo académico o de deserción.
 
 ## Demostración del Sistema
 
-[Haz clic aquí para ver el video de demostración del sistema](https://drive.google.com/file/d/1MgPJXvlxorJ1VF0_QoT9sf_7RZUYXT01/view?usp=drivesdk)
+[Haz clic aquí para ver el video de demostración del sistema]
+https://drive.google.com/file/d/1MgPJXvlxorJ1VF0_QoT9sf_7RZUYXTOl/view?usp=drivesdk
+
 
 ## Stack tecnológico
 
